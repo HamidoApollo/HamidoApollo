@@ -57,7 +57,7 @@
   </a>   
    &emsp; 
   <a href="https://laravel.com/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/Wordpress%20-%23E34F26.svg?logo=Wordpress&logoColor=white">
+   <img alt="HTML" src="https://img.shields.io/badge/Wordpress%20-%5DA7DB.svg?logo=Wordpress&logoColor=white">
   </a>   
   &emsp;
  
