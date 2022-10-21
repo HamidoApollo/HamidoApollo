@@ -35,15 +35,15 @@
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+   <img alt="HTML" src="https://img.shields.io/badge/React%20-%23E34F26.svg?logo=react&logoColor=white">
   </a>   
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
-   &emsp;
   <a href="https://tailwindcss.com/" target="_blank"> 
     <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss-%23563D7C.svg??style=flat&logo=tailwind css&logoColor=white"/>
+  </a>
+&emsp; 
+	  <a href="https://tailwindcss.com/" target="_blank"> 
+    <img alt="Tailwindcss" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg??style=flat&logo=Bootstrap&logoColor=white"/>
   </a>
 &emsp; 
 </p>
