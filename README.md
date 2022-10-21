@@ -35,7 +35,7 @@
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/React%20-%23E34F26.svg?logo=react&logoColor=white">
+   <img alt="HTML" src="https://img.shields.io/badge/React%20-%2300599C.svg?logo=react&logoColor=white">
   </a>   
   &emsp;
   <a href="https://tailwindcss.com/" target="_blank"> 
@@ -57,7 +57,7 @@
   </a>   
    &emsp; 
   <a href="https://laravel.com/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/Wordpress%20-%5DA7DB.svg?logo=Wordpress&logoColor=white">
+   <img alt="HTML" src="https://img.shields.io/badge/Wordpress%20-%23327FC7.svg?logo=Wordpress&logoColor=white">
   </a>   
   &emsp;
  
