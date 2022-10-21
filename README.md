@@ -78,7 +78,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/amarGhandour"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hamido&show_icons=true&locale=en&theme=dark" alt="hamido" height="192px"/></a>
+    <a href="https://github.com/HamidoApollo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hamido&show_icons=true&locale=en&theme=dark" alt="hamido" height="192px"/></a>
 	</p>
 	<p  align="center">
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamido&show_icons=true&locale=en&layout=compact&theme=algolia" alt="hamido" height="192px"/>
@@ -90,7 +90,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/HamidoApollo"><img alt="Amar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hamido&custom_title=Abdeldjabar%20Ahmeidi's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/HamidoApollo"><img alt="Hamido Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hamido&custom_title=Abdeldjabar%20Ahmeidi's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
