@@ -72,7 +72,7 @@
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Hostinger" src="https://img.shields.io/badge/Hostinger%20Pages-%23563D7C.svg?style=flat&logo=Hostinger&logoColor=white"></a>
+    <a href="hostinger.com"><img alt="hostinger" src="https://img.shields.io/badge/hostinger%20Pages-%23563D7C.svg?style=flat&logo=hostinger&logoColor=white"></a>
   &emsp;
   
 </p>
