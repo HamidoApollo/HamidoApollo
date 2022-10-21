@@ -52,15 +52,15 @@
 
 <p align="left"> 
   &emsp; 
-  <a href="https://laravel.com/" target="_blank"> 
+  <a href="#" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/Laravel%20-%23E34F26.svg?logo=Laravel&logoColor=white">
   </a>   
    &emsp; 
-  <a href="https://laravel.com/" target="_blank"> 
+  <a href="#" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/Wordpress%20-%23327FC7.svg?logo=Wordpress&logoColor=white">
   </a>   
   &emsp;
-   <a href="https://laravel.com/" target="_blank"> 
+   <a href="#" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/expressjs%20-%7DE5ED.svg?logo=express&logoColor=white">
   </a>   
   &emsp;
