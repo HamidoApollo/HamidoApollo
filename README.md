@@ -60,7 +60,10 @@
    <img alt="HTML" src="https://img.shields.io/badge/Wordpress%20-%23327FC7.svg?logo=Wordpress&logoColor=white">
   </a>   
   &emsp;
- 
+   <a href="https://laravel.com/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/express%20-%7DE5ED.svg?logo=expressjs&logoColor=white">
+  </a>   
+  &emsp;
 </p>
 
 ### 👉 Databases & Cloud Hosting
