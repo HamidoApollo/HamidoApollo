@@ -61,7 +61,7 @@
   </a>   
   &emsp;
    <a href="https://laravel.com/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/express%20-%7DE5ED.svg?logo=expressjs&logoColor=white">
+   <img alt="HTML" src="https://img.shields.io/badge/expressjs%20-%7DE5ED.svg?logo=express&logoColor=white">
   </a>   
   &emsp;
 </p>
